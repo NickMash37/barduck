@@ -20,8 +20,8 @@
             </div>
         </div>
         <div class="socials">
-            <a href="https://vk.com"><img src="../../../public/vk.png" alt="" class="social-item"></a>
-            <a href="https://telegram.me"><img src="../../../public/tg.png" alt="" class="social-item"></a>
+            <a href="https://vk.com" target="_blank"><img src="../../../public/vk.png" alt="" class="social-item"></a>
+            <a href="https://telegram.me" target="_blank"><img src="../../../public/tg.png" alt="" class="social-item"></a>
         </div>
     </div>
 </template>
